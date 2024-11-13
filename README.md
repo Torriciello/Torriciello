@@ -9,10 +9,5 @@
 
 
 
-### Tecnologias que eu uso no meu dia
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Rafa-Js" height="30" width="40" scr="<div style="display: inline_block"><br/>
-  <img align="center" alt="Rafa-Js" height="30" width="40" scr="https://raw.githubsercontent.com/devicons/devicon/master/icons/javascript_plain.svg">
-</div>
-   
+
    
